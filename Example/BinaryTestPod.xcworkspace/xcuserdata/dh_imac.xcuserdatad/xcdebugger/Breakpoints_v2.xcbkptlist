@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02A12D7E-3C55-4160-9726-1EF428B2DE42"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "2A4458CF-FA12-4534-9C5C-4C2441A6EC7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "sayHello"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "2A4458CF-FA12-4534-9C5C-4C2441A6EC7F - c82864c848cc3149"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BTApi sayHello]"
+                  moduleName = "BinaryTestPod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dh_imac/BinaryTestPod/BinaryTestPod/Classes/BTApi.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,16 @@
+PODS:
+  - BinaryTestPod (0.1.0)
+
+DEPENDENCIES:
+  - BinaryTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  BinaryTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BinaryTestPod: 7d095b046d84eb842015db92b931b7a6f7139217
+
+PODFILE CHECKSUM: afe5fe852ccec50a37993d4709a99d69a43e57ac
+
+COCOAPODS: 1.10.2

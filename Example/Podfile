@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BinaryTestPod_Example' do
+  pod 'BinaryTestPod', :path => '../'
+#  pod 'Masonry'
+  target 'BinaryTestPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

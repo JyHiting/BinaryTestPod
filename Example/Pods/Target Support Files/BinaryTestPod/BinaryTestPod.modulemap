@@ -1,0 +1,6 @@
+framework module BinaryTestPod {
+  umbrella header "BinaryTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

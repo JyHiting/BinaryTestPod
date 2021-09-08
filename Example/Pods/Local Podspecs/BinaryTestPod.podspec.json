@@ -1,0 +1,23 @@
+{
+  "name": "BinaryTestPod",
+  "version": "0.1.0",
+  "summary": "A short description of BinaryTestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1575792978@qq.com/BinaryTestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1575792978@qq.com": "YANGJIANYONG1@ceair.com"
+  },
+  "source": {
+    "git": "https://github.com/1575792978@qq.com/BinaryTestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BinaryTestPod/Classes/**/*",
+  "prepare_command": "ruby build_lib.rb"
+}
